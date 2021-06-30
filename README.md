@@ -16,7 +16,7 @@ I'm a Frontend Software Engineer from Singapore.
 
 ### skills ⚡
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=Javascript&logoColor=%2361DAFB" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=Javascript&logoColor=%#F7DF1E" />
 
 
 <!--
