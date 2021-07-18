@@ -1,9 +1,9 @@
 ### hello! 👋
 I'm a Frontend Software Engineer from Singapore. 
 
-- 🔭 I’m currently working on Reactjs with several Web Applications
-- 🌱 I’m interested in learning various programming language/frameworks and UIUX designing
-- 💬 I enjoy a good conversation over a cup of coffee
+- 🔭  I’m currently working on Reactjs with several Web Applications
+- 🌱  I’m interested in learning various programming language/frameworks and UIUX designing
+- 💬  I enjoy a good conversation over a cup of coffee
 
 ### you can reach me at 📫
 
