@@ -26,7 +26,7 @@ I'm a Frontend Software Engineer from Singapore.
 <img align="left" alt="mongo" src="https://img.shields.io/badge/mongoDB%20-%23232F3E.svg?&style=for-the-badge&logo=mongoDB&logoColor=#47A248" />
 
 <br>
-![](https://komarev.com/ghpvc/?username=valeryfun)
+
 
 
 
