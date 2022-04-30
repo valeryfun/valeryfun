@@ -1,9 +1,10 @@
 ### hello! 👋
-I'm a Frontend Software Engineer from Singapore. 
+I'm a Frontend Developer from Singapore in a web3 company. 
 
-- 🔭  I’m currently working on Reactjs with several Web Applications
-- 🌱  I’m interested in learning various programming language/frameworks and UIUX designing
-- 💬  I enjoy a good conversation over a cup of coffee
+- 🔭 Currently working on building an NFT marketplace full time
+- ✨ NFT degen looking to start her own collection someday 
+- 🌱 I’m interested in learning various programming language/frameworks and UIUX designing
+- 💬 I also enjoy conversations over a good cup of coffee
 
 ### you can reach me at 📫
 
