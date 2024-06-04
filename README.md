@@ -1,10 +1,5 @@
 ### hello! 👋
-I'm a Frontend Developer from Singapore in a web3 company. 
-
-- 🔭 Currently working on building an NFT marketplace full time
-- ✨ NFT degen looking to start her own collection someday 
-- 🌱 I’m interested in learning various programming language/frameworks and UIUX designing
-- 💬 I also enjoy conversations over a good cup of coffee
+I'm a Product Manager from Singapore. 
 
 ### you can reach me at 📫
 
