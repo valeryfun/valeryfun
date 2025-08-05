@@ -19,6 +19,7 @@ I'm a Product Manager from Singapore.
 <img align="left" alt="css" src="https://img.shields.io/badge/css3%20-%23232F3E.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img align="left" alt="adobexd" src="https://img.shields.io/badge/adobexd%20-%23232F3E.svg?&style=for-the-badge&logo=adobexd&logoColor=#FF61F6" />
 <img align="left" alt="node" src="https://img.shields.io/badge/node.js%20-%23232F3E.svg?&style=for-the-badge&logo=node.js&logoColor=#339933" />
+<img align="left" alt="python" src="https://img.shields.io/badge/node.js%20-%23232F3E.svg?&style=for-the-badge&logo=node.js&logoColor=#339933" />
 
 <img align="left" alt="mongo" src="https://img.shields.io/badge/mongoDB%20-%23232F3E.svg?&style=for-the-badge&logo=mongoDB&logoColor=#47A248" />
 
